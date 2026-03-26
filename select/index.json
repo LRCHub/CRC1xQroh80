@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Bのリベンジ -ルビー Solo Ver.-",
+  "base_artist": "ルビー（CV：伊駒ゆりえ）",
+  "createdAt": "2026-03-26T08:05:23.150400Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bのリベンジ -ルビー Solo Ver.-",
+      "artist": "ルビー(CV:伊駒ゆりえ)",
+      "has_synced": false,
+      "path": "select/pl_01_Bのリベンジ_-ルビー_Solo_Ver.-_ルビー(CV_伊駒ゆりえ).txt"
+    }
+  ]
+}
